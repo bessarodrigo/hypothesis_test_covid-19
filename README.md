@@ -18,7 +18,7 @@ Para decidir por qual estratégia seguir, realizou um estudo clínico com 87 pes
 Como o p-valor de 18% é maior que o nível de significância de 5%, podemos concluir que não existem evidências estatísticas suficientes contra H0, ou seja, não rejeitamos H0.
 
 Relembrando as hipóteses definidas:
+- H0: A proporção sintomas graves VE é igual a proporção sintomas graves RNA
+- H1: A proporção sintomas graves VE é diferente da proporção sintomas graves RNA
 
-H0: A proporção sintomas graves VE é igual a proporção sintomas graves RNA
-H1: A proporção sintomas graves VE é diferente da proporção sintomas graves RNA
 E como não rejeitamos H0, podemos dizer que não existem evidências estatísticas de que a proporção de pessoas com sintomas graves não é igual nos 2 tipos de vacinas.
