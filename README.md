@@ -1,4 +1,5 @@
 # Teste de Hipóteses - Estratégia para Desenvolvimento de uma Vacina
+## Proporção de Duas Populações
 Estudo realizado com base nos aprendizados do módulo de inferência estatística da [Escola Preditiva](https://www.preditiva.ai/). apliquei o conceito utilizado no Excel e repliquei no Python.
 
 # Problema
